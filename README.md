@@ -2,6 +2,7 @@
 
 This project is a **full-stack application** that helps teams turn raw meeting transcripts into concise, shareable summaries. Users can upload a transcript file, apply a custom summarization instruction, edit the generated summary, and share it with team members via email.
 
+**Live Link:** https://ai-meeting-summarizer-f2no.onrender.com/
 ---
 
 ## 🚀 Features
